@@ -23,11 +23,14 @@ The directory "Neural Networks" contains all notebooks relevant to chapter 5 of 
 # Example Results for the DW System
 
 Neural Network
+
 ![NN DW 128 Statespace](https://user-images.githubusercontent.com/93135270/159294713-39fc3dbd-ac1d-4a5c-bc32-916e46cfe7a8.png)
 
 LSTM Recurrent Network
+
 ![LSTM DW 512 Statespace](https://user-images.githubusercontent.com/93135270/159295074-fe6417dc-9873-42a4-9743-3490dc6266d5.png)
 
 Hamiltonian Neural Network
+
 ![HNN DW 128 Statespace](https://user-images.githubusercontent.com/93135270/159294644-71cd75b5-e541-4f67-8113-3ba6d18ed2d2.png)
 
