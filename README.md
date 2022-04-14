@@ -26,6 +26,8 @@ The directories 'DNN / LSTM / HNN Hyperparameters' contain notebooks showing the
 
 The directories '1D Oscillators' and 'Henon-Heiles' contain notebooks assessing the performance of the final network types identified through hyperparameter optimisation, applied to the one-dimensional oscillators (simple harmonic oscillator, double-well oscillator and rugged oscillator) and chaotic Henon-Heiles system.
 
+The directory 'X Only' contains experiments performed using the LSTM integrator, simulating only the position time-evolution of the SHO system.
+
 The directory 'Additional Experiments' contains notebooks performing investigations into specific behaviours of the final networks.
 
 # Example Results for the DW System
